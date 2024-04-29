@@ -3,10 +3,10 @@ import { FaInstagram, FaTwitter, FaFacebookF } from 'react-icons/fa';
 
 const Index = () => {
   const galleryImages = [
-    { src: '/images/beyonce1.jpg', alt: 'Beyonce performing' },
-    { src: '/images/beyonce2.jpg', alt: 'Beyonce on red carpet' },
-    { src: '/images/beyonce3.jpg', alt: 'Beyonce in a music video' },
-    { src: '/images/beyonce4.jpg', alt: 'Beyonce at an event' }
+    { src: '/assets/images/beyonce1.jpg', alt: 'Beyonce performing' },
+    { src: '/assets/images/beyonce2.jpg', alt: 'Beyonce on red carpet' },
+    { src: '/assets/images/beyonce3.jpg', alt: 'Beyonce in a music video' },
+    { src: '/assets/images/beyonce4.jpg', alt: 'Beyonce at an event' }
   ];
 
   return (
